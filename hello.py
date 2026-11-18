@@ -1,1 +1,2 @@
-print("ควย")
+print (" hello ")
+print (" คิม ซอนไชฮี ")
